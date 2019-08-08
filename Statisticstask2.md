@@ -1,0 +1,9 @@
+统计学课程035-046。主要内容有中心极限定理，置信区间，小样本t分布。
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_01.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_02.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_03.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_04.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_05.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_06.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_07.jpg)
+![image](https://github.com/yxs20130360135/Statistics/blob/master/task2_08.jpg)
